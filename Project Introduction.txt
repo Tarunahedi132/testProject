@@ -1,0 +1,9 @@
+SECTION 1:		INTRODUCTION
+
+The topic - E-Business: Understanding the Role of MIS in E-Business, explores the relationship between e-business and Management Information Systems (MIS). 
+
+E-business has revolutionized the way businesses operate, enabling them to leverage the power of the Internet. E-business, short for electronic business, refers to conducting business activities, including buying, and selling goods and services, through electronic means such as the Internet, computer networks, and other digital technologies. It encompasses a wide range of activities, from online shopping and digital marketing to electronic data interchange and online banking.
+
+Management Information Systems (MIS) play a crucial role in supporting and facilitating the operations of e-businesses. MIS provides the necessary infrastructure, tools, and processes for managing and leveraging data in e-businesses. It supports decision-making, streamlines business processes, enhances customer relationships, ensures security, and monitors performance, ultimately contributing to the success and growth of e-businesses.
+
+The objective of the video is to describe how closely intertwined these two concepts are.
