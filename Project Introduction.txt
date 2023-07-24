@@ -7,3 +7,20 @@ E-business has revolutionized the way businesses operate, enabling them to lever
 Management Information Systems (MIS) play a crucial role in supporting and facilitating the operations of e-businesses. MIS provides the necessary infrastructure, tools, and processes for managing and leveraging data in e-businesses. It supports decision-making, streamlines business processes, enhances customer relationships, ensures security, and monitors performance, ultimately contributing to the success and growth of e-businesses.
 
 The objective of the video is to describe how closely intertwined these two concepts are.
+
+SECTION 2:		METHODOLOGY
+
+We employed a step-by-step approach to creating the video.
+
+Choosing the Topic: First, we chose a topic. The aim was to choose a Management Information Systems topic that was both informative and relevant in the modern-day world.
+
+Planning the Content: Next, we conducted our research, gathering relevant information from reliable sources. We planned the content of our video.
+
+Writing the Script: We wrote a script for the video, outlining all seven segments we intended the video to have. 
+
+Designing the Video: Before creating the actual video on invideo, we first designed a concept of the video using PowerPoint slides. 
+
+Creating the Video: Then we went ahead to create our video in invideo, using the PowerPoint slides as a guide.
+
+Editing the Video: Finally, we kept on editing the video until we were satisfied with the outcome.
+
